@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.form_Add_Parent.resources
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.frmPayPeriod.resources
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.frmPayFood.resources
+C:\Users\User\Desktop\ucha\CourseWork\CourseWork\obj\Debug\CourseWork.Home.resources
